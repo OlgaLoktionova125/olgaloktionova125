@@ -1,6 +1,6 @@
 ## Привет 👋, меня зовут Ольга  
     
-### Я начинающий Frontend-разработчик
+### Я начинающий Веб-разработчик
 
 ### Обо мне:
   * 👩‍💼 Ищу работу Frontend-разработчика
@@ -11,20 +11,14 @@
 
 ### Мой стэк технологий: 
 
-|![icons8-javascript-26](https://user-images.githubusercontent.com/70646350/119318720-4f788180-bc82-11eb-87ff-8201ce9d61c8.png) `JavaScript` | ![icons8-html-5-26](https://user-images.githubusercontent.com/70646350/119315541-9cf2ef80-bc7e-11eb-8f46-ef3766162ab6.png) `HTML` | ![icons8-css3-26](https://user-images.githubusercontent.com/70646350/119316006-1be82800-bc7f-11eb-8166-910c027cd18f.png) `CSS` | ![icons8-react-26](https://user-images.githubusercontent.com/70646350/119316439-a0d34180-bc7f-11eb-9a36-e79d2b093d69.png) `React`|
-|:------:|:------:|:------:|:------:|
-|![icons8-rest-api-26](https://user-images.githubusercontent.com/70646350/119323556-7e452680-bc87-11eb-9cd2-fc2293869858.png) **`REST API`**| ![icons8-webpack-26](https://user-images.githubusercontent.com/70646350/119315153-38d02b80-bc7e-11eb-8198-9f3eb058edef.png) **`webpack`** |![mongodb_original_logo_icon_146424](https://user-images.githubusercontent.com/70646350/119320033-ceba8500-bc83-11eb-9455-537f415c9fe1.png) **`mongoDB`**|![pngwing com](https://user-images.githubusercontent.com/70646350/119322690-8bade100-bc86-11eb-9660-cbfee5afd4a5.png)**`express.js`**| ![icons8-git-26](https://user-images.githubusercontent.com/70646350/119321913-cc592a80-bc85-11eb-9540-8605bd48f3f7.png) **`git`**|
-<!--
-**OlgaLoktionova125/olgaloktionova125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white' alt='HTML5'> <img src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white' alt='CSS3'> <img src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black' alt='JS'> <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' alt='React.js'> <img src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white' alt='Node.js'>  
+<img src='https://img.shields.io/badge/Express.js-404D59?style=for-the-badge' alt='Express.js'> <img src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white' alt='MongoDB'> <img src='https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black' alt='webpack'> <img src='https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white' alt='Figma'>
+---------------------------
+### Контакты:
 
-Here are some ideas to get you started:
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/Olga_222243)&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='whatsapp' height='40'>](https://wa.me/79032518439)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---------------------
+![](https://komarev.com/ghpvc/?username=OlgaLoktionova125)
+
